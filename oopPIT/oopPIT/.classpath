@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt"/>
+	<classpathentry kind="lib" path="C:/Users/personal/swt jarjar/org.eclipse.core.commands_3.6.100.v20140528-1422.jar"/>
+	<classpathentry kind="lib" path="C:/Users/personal/swt jarjar/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="C:/Users/personal/swt jarjar/org.eclipse.jface_3.10.0.v20140604-0740.jar"/>
+	<classpathentry kind="lib" path="C:/Users/personal/swt jarjar/org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

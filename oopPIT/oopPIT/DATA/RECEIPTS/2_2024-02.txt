@@ -1,0 +1,14 @@
+Printed on: Sat Jun 29 19:55:55 PST 2024
+ID: 2024-02
+Passenger Name: Maria Clara
+Passenger Type: SENIOR CITIZEN
+Pick Up Point: Lumbia
+Drop Out Point: Cogon
+Luggage Quantity: 2
+Luggage Type: Large
+Transportation Fee: 30 pesos
+Luggage Fee: 16 pesos
+Total Payment: 46 pesos
+Discounted Amount: 6.90 pesos
+Total Discounted Payment: 39.10 pesos
+Jeepney Plate Number: 100A

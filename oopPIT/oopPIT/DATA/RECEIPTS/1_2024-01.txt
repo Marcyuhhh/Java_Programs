@@ -1,0 +1,14 @@
+Printed on: Sat Jun 29 19:54:37 PST 2024
+ID: 2024-01
+Passenger Name: James Clack
+Passenger Type: STUDENT
+Pick Up Point: SM Uptown
+Drop Out Point: Cogon
+Luggage Quantity: 0
+Luggage Type: small
+Transportation Fee: 25 pesos
+Luggage Fee: 0 pesos
+Total Payment: 25 pesos
+Discounted Amount: 5.00 pesos
+Total Discounted Payment: 20.00 pesos
+Jeepney Plate Number: 100A
